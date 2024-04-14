@@ -15,8 +15,8 @@ This Project was created with C# with basic GUI (WinForms) with SQL Server datab
 - Reach the top square to win!
 
 ### Screenshots
-![Screenshots](screenshots/gameplay.png)
-![Screenshots](screenshots/gameplay.png)
-![Screenshots](screenshots/gameplay.png)
-![Screenshots](screenshots/gameplay.png)
-![Screenshots](screenshots/gameplay.png)"# Snakes-and-Ladders" 
+![Screenshots](screenshots/screenshot1.jpg)
+![Screenshots](screenshots/screenshot2.jpg)
+![Screenshots](screenshots/screenshot3.jpg)
+![Screenshots](screenshots/screenshot4.jpg)
+![Screenshots](screenshots/screenshot5.jpg)
