@@ -1,7 +1,7 @@
 # Snakes and Ladders
 
 ### Overview
-Welcome to Snakes and Ladders, a simple WinForms desktop application of a classic board game where players navigate through a grid-like board filled with snakes (which hinder progress) and ladders (which provide shortcuts). The objective is to reach the top square from the starting position by rolling a dice.
+Welcome to Snakes and Ladders, a WinForms desktop application of a board game where players navigate through a grid-like board filled with snakes (which hinder progress) and ladders (which provide shortcuts). The objective is to reach the top square from the starting position by rolling a dice.
 
 ### Technologies
 This Project was created with C# with basic GUI (WinForms) with SQL Server databases on .net framework (only works on windows).
